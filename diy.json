@@ -2,7 +2,7 @@
   "sites": [
     {
       "name": "jable|AV",
-      "type": 1,
+      "type": 3,
       "api": "https://ghp.ci/https://raw.githubusercontent.com/JocyHu/nash/refs/heads/main/jable.js"
     }
   ]
