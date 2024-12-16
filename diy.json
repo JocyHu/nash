@@ -1,9 +1,10 @@
 {
   "sites": [
     {
-      "name": "肉视频",
-      "type": 1,
-      "api": "https://raw.githubusercontent.com/JocyHu/nash/main/rsp.js"
+      "name": "肉视频 | AV",
+      "type": 3,
+      "api": "csp_rsp",
+      "ext": "https://raw.githubusercontent.com/JocyHu/nash/main/rsp.js"
     }
   ]
 }
