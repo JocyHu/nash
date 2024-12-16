@@ -3,7 +3,7 @@
     {
       "name": "肉视频",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/JocyHu/nash/refs/heads/main/rsp.js"
+      "api": "https://raw.githubusercontent.com/JocyHu/nash/main/rsp.js"
     }
   ]
 }
