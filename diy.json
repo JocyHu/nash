@@ -1,9 +1,9 @@
 {
   "sites": [
     {
-      "name": "jable|AV",
+      "name": "肉视频",
       "type": 3,
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/JocyHu/nash/refs/heads/main/rsp.js"
+      "api": "https://raw.githubusercontent.com/JocyHu/nash/refs/heads/main/rsp.js"
     }
   ]
 }
